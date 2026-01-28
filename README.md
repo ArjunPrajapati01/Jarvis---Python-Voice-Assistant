@@ -29,8 +29,7 @@ This project demonstrates real-time speech recognition, text-to-speech conversio
 ---
 ## 📂 Project Structure
 
-jarvis-voice-assistant/
-│
-├── main.py # Main voice assistant code
-├── musicLibrary.py # Dictionary of song names and URLs
-├── README.md
+#jarvis-voice-assistant
+─ main.py # Main voice assistant code
+─ musicLibrary.py # Dictionary of song names and URLs
+─ README.md
